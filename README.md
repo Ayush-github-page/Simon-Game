@@ -1,6 +1,8 @@
 # Simon-Game
 Simon Game: A browser based interactive game
 
+Name: Ayush Tiwari | Roll no. 21MI31010 | Documentation of 'Simon game' Project for CDC verification
+
 Objective
 - To design and implement a browser-based interactive memory game that enhances user engagement.
 - To apply front-end web development skills (HTML, CSS, JavaScript, jQuery) in building a fully functional application.
